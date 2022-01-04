@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marino from @capellaIT
+- 👋 Hi, I’m Marino from @CapellaIT
 - 👀 I’m interested in .Net development
 - 📫 You can reach me by mail or Twitter (@CapellaIT)
 
